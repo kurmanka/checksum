@@ -2,6 +2,10 @@
 
 Checksum utility for node.
 
+## Status
+
+[![build status](https://secure.travis-ci.org/dshaw/checksum.png)](http://travis-ci.org/dshaw/checksum)
+
 ## Install
 
     npm install checksum
